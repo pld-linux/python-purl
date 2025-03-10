@@ -8,7 +8,7 @@ Summary:	Simple Python URL class
 Summary(pl.UTF-8):	Prosta klasa URL dla Pythona
 Name:		python-purl
 Version:	1.6
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/purl/
